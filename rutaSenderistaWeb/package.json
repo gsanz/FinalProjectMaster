@@ -1,0 +1,21 @@
+{
+  "name": "serviciomisrutas",
+  "version": "1.0.0",
+  "description": "Servicio de mis Rutas",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Gorka Sanz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "gsanz"
+  ]
+}
